@@ -1,4 +1,4 @@
-const CACHE = 'stv-gold-v1';
+const CACHE = 'xoco-base-v1';
 const ASSETS = ['./', './index.html'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));
