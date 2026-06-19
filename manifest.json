@@ -1,11 +1,11 @@
 {
-  "name": "UNCLE BASE PLAYER",
-  "short_name": "MY NIGGA BASE",
-  "description": "PRIVATE STATION",
+  "name": "XOCO | WHOAMEYE",
+  "short_name": "XOCO",
+  "description": "Private Station",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#1a1200",
-  "theme_color": "#1a1200",
+  "background_color": "#1a1500",
+  "theme_color": "#1a1500",
   "orientation": "portrait",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
